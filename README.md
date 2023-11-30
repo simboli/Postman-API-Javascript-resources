@@ -1,5 +1,5 @@
 # Postman-API-Javascript-resources
-Postman API Javascript resources
+![Postman application logo]([Isolated.png](https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png) "Postman application logo")
 
 ## Test Scripts:
 
@@ -21,20 +21,6 @@ In Postman, a test script is a piece of code that allows you to automate the val
    });
    ```
 
-### Advanced Test Scripts:
-
-1. **Chaining Requests:**
-   - You can chain requests within a collection using test scripts, ensuring a seamless workflow. For example, extract data from one response and use it in another request.
-
-2. **Response Assertions:**
-   - Leverage built-in methods like `pm.response.to.have.property` to assert specific properties in the response.
-
-3. **Dynamic Variables:**
-   - Use variables to make your scripts dynamic. Extract data from responses and reuse it in subsequent requests.
-
-4. **Test Collections:**
-   - Organize your tests into collections, allowing you to run multiple scripts in a sequence.
-
 ## Pre-request Scripts:
 
 ### Introduction:
@@ -52,35 +38,6 @@ A pre-request script runs before the actual request is sent. It's your chance to
    ```javascript
    pm.headers.add({ key: 'Authorization', value: 'Bearer YOUR_ACCESS_TOKEN' });
    ```
-
-### Advanced Pre-request Scripts:
-
-1. **Dynamic Data Generation:**
-   - Generate dynamic data like timestamps or unique identifiers to include in your request.
-
-2. **Environment Variables:**
-   - Utilize environment variables for flexibility. Switch environments easily without changing scripts.
-
-3. **Authentication:**
-   - Handle authentication dynamically, extracting tokens from responses and using them in subsequent requests.
-
-4. **Global Scripts:**
-   - Create scripts that run before any request in your collection, maintaining consistency.
-
-## Best Practices:
-
-1. **Documentation:**
-   - Comment your scripts for clarity and future reference.
-
-2. **Error Handling:**
-   - Implement error handling in your scripts to gracefully manage unexpected situations.
-
-3. **Regular Maintenance:**
-   - APIs evolve. Regularly review and update your scripts to adapt to changes.
-
-4. **Community Resources:**
-   - Explore the Postman community for shared scripts and solutions to common challenges.
-
 
 ## Execution Timing of Pre-request and Test Scripts in Postman
 
