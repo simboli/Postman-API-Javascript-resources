@@ -23,27 +23,27 @@ In Postman, a test script is a piece of code that allows you to automate the val
 
 ### Snippets
 
-- (Snippets for tests/001.Get an environment variable.js)
-- (Snippets for tests/002.Get a global variable.js)
-- (Snippets for tests/003.Get a variable.js)
-- (Snippets for tests/004.Get a collection variable.js)
-- (Snippets for tests/005.Set an environment variable.js)
-- (Snippets for tests/006.Set a global variable.js)
-- (Snippets for tests/007.Set a collection variable.js)
-- (Snippets for tests/008.Clear an environment variable.js)
-- (Snippets for tests/009.Clear a global variable.js)
-- (Snippets for tests/010.Clear a collection variable.js)
-- (Snippets for tests/011.Send a request.js)
-- (Snippets for tests/012.Status code code is 200.js)
-- (Snippets for tests/013.Response body contains string.js)
-- (Snippets for tests/014.Response body JSON value check.js)
-- (Snippets for tests/015.Response body is equal to a string.js)
-- (Snippets for tests/016.Response headers content-type header check.js)
-- (Snippets for tests/017.Response time is less than 200ms.js)
-- (Snippets for tests/018.Status code Successful POST request.js)
-- (Snippets for tests/019.Status code Code name has string.js)
-- (Snippets for tests/020.Response body convert XML body to a JSON Object.js)
-- (Snippets for tests/021.Use Tiny Validator for JSON data.js)
+- 001.Get an environment variable.js
+- 002.Get a global variable.js
+- 003.Get a variable.js
+- 004.Get a collection variable.js
+- 005.Set an environment variable.js
+- 006.Set a global variable.js
+- 007.Set a collection variable.js
+- 008.Clear an environment variable.js
+- 009.Clear a global variable.js
+- 010.Clear a collection variable.js
+- 011.Send a request.js
+- 012.Status code code is 200.js
+- 013.Response body contains string.js
+- 014.Response body JSON value check.js
+- 015.Response body is equal to a string.js
+- 016.Response headers content-type header check.js
+- 017.Response time is less than 200ms.js
+- 018.Status code Successful POST request.js
+- 019.Status code Code name has string.js
+- 020.Response body convert XML body to a JSON Object.js
+- 021.Use Tiny Validator for JSON data.js
 
 ## Pre-request Scripts
 
@@ -64,17 +64,17 @@ A pre-request script runs before the actual request is sent. It's your chance to
    ```
 
 ### Snippets
-- (Script pre-request/001.Get an environment variable.js)
-- (Script pre-request/002.Get a global variable.js)
-- (Script pre-request/003.Get a variable.js)
-- (Script pre-request/004.Get a collection variable.js)
-- (Script pre-request/005.Set an environment variable.js)
-- (Script pre-request/006.Set a global variable.js)
-- (Script pre-request/007.Set a collection variable.js)
-- (Script pre-request/008.Clear an environment variable.js)
-- (Script pre-request/009.Clear a global variable.js)
-- (Script pre-request/010.Clear a collection variable.js)
-- (Script pre-request/011.Send a request.js)
+- 001.Get an environment variable.js
+- 002.Get a global variable.js
+- 003.Get a variable.js
+- 004.Get a collection variable.js
+- 005.Set an environment variable.js
+- 006.Set a global variable.js
+- 007.Set a collection variable.js
+- 008.Clear an environment variable.js
+- 009.Clear a global variable.js
+- 010.Clear a collection variable.js
+- 011.Send a request.js
 
 
 ## Execution Timing of Pre-request and Test Scripts in Postman
