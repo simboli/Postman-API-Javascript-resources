@@ -1,5 +1,5 @@
+![Postman application logo](https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Postman_(software).png)
 # Postman-API-Javascript-resources
-![Postman application logo]([Isolated.png](https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png) "Postman application logo")
 
 ## Test Scripts:
 
