@@ -21,29 +21,29 @@ In Postman, a test script is a piece of code that allows you to automate the val
    });
    ```
 
-### Snippets
+### Snippets (from Postman application)
 
-- 001.Get an environment variable.js
-- 002.Get a global variable.js
-- 003.Get a variable.js
-- 004.Get a collection variable.js
-- 005.Set an environment variable.js
-- 006.Set a global variable.js
-- 007.Set a collection variable.js
-- 008.Clear an environment variable.js
-- 009.Clear a global variable.js
-- 010.Clear a collection variable.js
-- 011.Send a request.js
-- 012.Status code code is 200.js
-- 013.Response body contains string.js
-- 014.Response body JSON value check.js
-- 015.Response body is equal to a string.js
-- 016.Response headers content-type header check.js
-- 017.Response time is less than 200ms.js
-- 018.Status code Successful POST request.js
-- 019.Status code Code name has string.js
-- 020.Response body convert XML body to a JSON Object.js
-- 021.Use Tiny Validator for JSON data.js
+- [001.Get an environment variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/001.Get%20an%20environment%20variable.js>)
+- [002.Get a global variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/002.Get%20a%20global%20variable.js>)
+- [003.Get a variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/003.Get%20a%20variable.js>)
+- [004.Get a collection variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/004.Get%20a%20collection%20variable.js>)
+- [005.Set an environment variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/005.Set%20an%20environment%20variable.js>)
+- [006.Set a global variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/006.Set%20a%20global%20variable.js>)
+- [007.Set a collection variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/007.Set%20a%20collection%20variable.js>)
+- [008.Clear an environment variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/008.Clear%20an%20environment%20variable.js>)
+- [009.Clear a global variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/009.Clear%20a%20global%20variable.js>)
+- [010.Clear a collection variable.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/010.Clear%20a%20collection%20variable.js>)
+- [011.Send a request.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/011.Send%20a%20request.js>)
+- [012.Status code code is 200.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/012.Status%20code%20code%20is%20200.js>)
+- [013.Response body contains string.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/013.Response%20body%20contains%20string.js>)
+- [014.Response body JSON value check.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/014.Response%20body%20JSON%20value%20check.js>)
+- [015.Response body is equal to a string.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/015.Response%20body%20is%20equal%20to%20a%20string.js>)
+- [016.Response headers content-type header check.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/016.Response%20headers%20content-type%20header%20check.js>)
+- [017.Response time is less than 200ms.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/017.Response%20time%20is%20less%20than%20200ms.js>)
+- [018.Status code Successful POST request.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/018.Status%20code%20Successful%20POST%20request.js>)
+- [019.Status code Code name has string.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/019.Status%20code%20Code%20name%20has%20string.js>)
+- [020.Response body convert XML body to a JSON Object.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/020.Response%20body%20convert%20XML%20body%20to%20a%20JSON%20Object.js>)
+- [021.Use Tiny Validator for JSON data.js](<https://github.com/simboli/Postman-API-Javascript-resources/blob/main/Snippets%20for%20tests/021.Use%20Tiny%20Validator%20for%20JSON%20data.js>)
 
 ## Pre-request Scripts
 
@@ -63,7 +63,7 @@ A pre-request script runs before the actual request is sent. It's your chance to
    pm.headers.add({ key: 'Authorization', value: 'Bearer YOUR_ACCESS_TOKEN' });
    ```
 
-### Snippets
+### Snippets (from Postman application)
 - 001.Get an environment variable.js
 - 002.Get a global variable.js
 - 003.Get a variable.js
